@@ -3,7 +3,7 @@ This repository is created in order to analyze why COVID-19 spreading faster in 
  
 # Life Data Epidemiology
 
-## Why North Italy has both faster dynamics of human mobility & variations and the speed of COVID-19 spreading compared to other regions in Italy.
+## Why North Italy has both faster dynamics of human mobility & variations and the speed of COVID-19 spreading compared to other regions in Italy?
 
 In December 2019, the city of Wuhan(Hubei, China) experienced a cluster of pneumonia cases that were monitored by the Chinese health suthorities , and this was caused by the new COVID-19 pathogen. 
 The global spread was so rapid that the WHO declared that the COVID-19 epidemic was a public health emergency on 30 January 2020.  As we all know at the very beginning of the disease, pandemics; we didn^t have vaccine, we didn’t have an extensive knowledge about the virus, how serious it is. 
